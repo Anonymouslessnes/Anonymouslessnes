@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Anonymouslessnes
-- 🌱 I’m currently learning Python intermediate
+- 🌱 I’m currently learning Python intermediate, C intermediate, Java beginners 
 - 📫 How to reach me
 - Discord:anonymousless_nes
 
