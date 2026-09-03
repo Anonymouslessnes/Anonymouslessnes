@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Anonymouslessnes
-- 🌱 I’m currently learning Python intermediate, C intermediate, C# beginner(with .net framework), HTML CSS JAVASCRIPT beginner ,Java beginners 
-- 📫 How to reach me
+- 👋 Hi, I’m @Anonymousless nes
 - Discord:anonymousless_nes
 
 <!---
